@@ -1,4 +1,4 @@
-# vision-transformes-evaluation
+# vision-transformers-evaluation
 Repository containing applications and evaluation of vision transformers for discrimination of real and fake photos.
 
 ## Content
@@ -9,10 +9,10 @@ Training and evaluation of the following models:
 - VGG 16 - https://arxiv.org/pdf/1409.1556.pdf
 
 ## Image Samples
-![alt text]("https://github.com/matheusboaro/vision-transformes-evaluation/blob/main/presentation/10269-%5B1%5Dvit_correct.png")
+![alt text](https://github.com/matheusboaro/vision-transformes-evaluation/blob/main/presentation/10269-%5B1%5Dvit_correct.png)
 
 ## Attention Layer Activations
-![alt text]("https://github.com/matheusboaro/vision-transformes-evaluation/blob/main/presentation/atencao.png")
+![alt text](https://github.com/matheusboaro/vision-transformes-evaluation/blob/main/presentation/atencao.png)
 
 ## Results Obtained
-![alt text]("https://github.com/matheusboaro/vision-transformes-evaluation/blob/main/presentation/resultados.png")
+![alt text](https://github.com/matheusboaro/vision-transformes-evaluation/blob/main/presentation/resultados.png)
